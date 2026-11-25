@@ -12,7 +12,7 @@ and checks whether the voltage exceeds the threshold (-55 mv).
 
 # How to use
 * Download `miconsola.py`
-* To run this code, you need to have `Python` installed on your computer.
+* To run the code, you need to have `Python` installed on your computer.
 * Run the script in terminal
 > **Tip** If you have both (Rstudio and Python), you can open this proyect in the terminal and run:
 > python miconsola.py
